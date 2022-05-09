@@ -41,4 +41,4 @@ dependencies:
     - python-whois
     - pythonping
     - talos
-prefix: C:\Users\edgor\anaconda3\envs\URLAnalyser
+prefix: /home/behnamh721rn/anaconda3/envs/URLAnalyser
